@@ -1,0 +1,18 @@
+.header,.main,.footer{max-width:1200px;margin:auto}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+.header {background-color: #ffffff;padding: 30px;text-align: center;font-size: 50px;}
+.footer {background-color: #ffffff;padding: 5px;text-align: left;}
+
+
+.parent{
+    text-align : center;
+   }
+
+#h1 {
+    text-align: center;
+    top:2200px;
+    font-size: 60px;
+    left:: center;
+}
+

@@ -1,0 +1,42 @@
+.header,.main,.footer{max-width:1200px;margin:auto}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+.header {background-color: #ffffff;padding: 30px;text-align: center;font-size: 20px;}
+.footer {background-color: #ffffff;padding: 5px;text-align: left;}
+
+#img {
+    display: block;
+    margin: 0px auto;
+    max-width:500px;
+    width: auto;
+}
+
+#h2 {
+    text-align: center;
+    font-size: 30px;
+    left: center;
+    top:2000px
+}
+
+.container .header .text {
+    float: left;
+    display: inline-block;
+    vertical-align: bottom;
+    font-family: sans-serif;
+    font-size: x-large;
+    border:5px solid blue;
+}
+
+.h2 {
+    text-align: center;
+    top:2200px;
+    font-size: 35px;
+    left: center;
+}
+
+#pronatec {
+    text-align: center;
+    font-size: 20px;
+    left: center;
+    right: 50px;
+}
